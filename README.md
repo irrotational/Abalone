@@ -1,7 +1,7 @@
 # Abalone
 Demonstration of various machine-learning models to determine the age of Abalone (a type of sea snail) given various characteristics (weight, diameter, etc).
 
-The original dataset can be obtained from the UCI Machine Learning Respository, here: https://archive.ics.uci.edu/ml/datasets/Abalone
+The original dataset can be obtained from the UCI Machine Learning Repository, here: https://archive.ics.uci.edu/ml/datasets/Abalone
 
 The dataset contains 4177 entries, and this task can be cast as an (integer) regression problem (in which we try to predict the age of the Abalone directly), or as a classification problem (in which the age of the Abalone is binned into an age category, and we try to predict this category).
 
